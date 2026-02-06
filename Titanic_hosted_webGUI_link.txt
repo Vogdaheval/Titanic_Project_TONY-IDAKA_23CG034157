@@ -1,0 +1,6 @@
+Name: Tony-Idaka Joy
+Matric Number: 23CG034157
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method: Joblib
+Live URL: https://titanic-project-eloheniola-23cg034064.onrender.com/
+GitHub Repository: https://github.com/E-DOLLZ/Titanic_Project_TONY_IDAKA_23CG034157
